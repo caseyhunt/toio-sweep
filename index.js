@@ -444,7 +444,7 @@ console.log(b);
 
 cube = gCubes[0];
 
-if(counter<20){
+if(counter<25){
 sweepNext(counter);
 }
 }
